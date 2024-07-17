@@ -7,3 +7,4 @@ NarHash: sha256:0hhzspd36rwk1ma614gl8rr64h60jn6qmfzfwq2mnyriszp0wxyc
 NarSize: 504
 References: 
 Deriver: 9761xhx058y4r1dc2625pdcxmmsr20jn-test.drv
+Sigs: cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=
