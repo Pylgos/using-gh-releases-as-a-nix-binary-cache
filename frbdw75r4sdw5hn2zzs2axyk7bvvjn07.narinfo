@@ -1,10 +1,7 @@
 StorePath: /nix/store/frbdw75r4sdw5hn2zzs2axyk7bvvjn07-test
-URL: nar/0hhzspd36rwk1ma614gl8rr64h60jn6qmfzfwq2mnyriszp0wxyc.nar.xz
-Compression: xz
-FileHash: sha256:0f4ndfj4n4c4582ra8g9r3j92ri9gxrhv2wnnxsmlqys15w9byc8
-FileSize: 212
+URL: nar/frbdw75r4sdw5hn2zzs2axyk7bvvjn07.nar
+Compression: none
 NarHash: sha256:0hhzspd36rwk1ma614gl8rr64h60jn6qmfzfwq2mnyriszp0wxyc
 NarSize: 504
-References: 
 Deriver: 9761xhx058y4r1dc2625pdcxmmsr20jn-test.drv
 Sig: pylgos.github.io:M8IwMj1man2t43tS4dWfiweyea5w/bTv1F+Edw2CN5/AZ6KFt9zCRo2p6NkCdxN6TxPwLmF1s2BwI4RlVU/MCg==
