@@ -1,5 +1,5 @@
 StorePath: /nix/store/frbdw75r4sdw5hn2zzs2axyk7bvvjn07-test
-URL: nar/frbdw75r4sdw5hn2zzs2axyk7bvvjn07.nar
+URL: https://github.com/Pylgos/using-gh-releases-as-a-nix-binary-cache/releases/download/nix-binary-cache/frbdw75r4sdw5hn2zzs2axyk7bvvjn07.nar
 Compression: none
 NarHash: sha256:0hhzspd36rwk1ma614gl8rr64h60jn6qmfzfwq2mnyriszp0wxyc
 NarSize: 504
